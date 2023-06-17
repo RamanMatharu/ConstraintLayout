@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ConstraintLayoutPractice</string>
+    <string name="spaceDesc">Space Station</string>
+    <string name="rocketDesc">Flights</string>
+    <string name="tv_dca">DCA</string>
+    <string name="tv_mars">MARS</string>
+    <string name="oneWay">ONEWAY</string>
+    <string name="travellers">TRAVELLER</string>
+    <string name="rover">Rovers</string>
+</resources>
