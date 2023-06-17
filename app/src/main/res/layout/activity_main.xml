@@ -188,7 +188,7 @@
         app:layout_constraintBottom_toTopOf="@id/h_gl_30"
         app:layout_constraintEnd_toStartOf="@id/v_gl_35"
         app:layout_constraintStart_toEndOf="@id/v_gl_05"
-        app:layout_constraintBaseline_toBaselineOf="@id/tv_rocketImg"
+        app:layout_constraintBaseline_toBaselineOf="@id/tvRocketImg"
         app:layout_constraintTop_toBottomOf="@id/spaceImg" />
 
     <TextView
@@ -200,6 +200,7 @@
         app:layout_constraintEnd_toStartOf="@id/v_gl_65"
         app:layout_constraintBottom_toTopOf="@id/h_gl_30"
         android:text="@string/rocketDesc"
+        app:layout_constraintBaseline_toBaselineOf="@id/tvRoversImg"
         android:textSize="15sp"
         android:textColor="@color/white"/>
 
